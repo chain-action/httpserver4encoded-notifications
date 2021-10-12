@@ -1,12 +1,13 @@
-# HTTP log Notification
+### chain-action/httpserver4encoded-notifications
 __test http server for viewing encoded notifications__
 
-__Install__
+- Install
 ```shell
 npm install
 ```
+- Edit the parameters `pub` and `sec` received from the debot in the file `index.js`
 
-__Run__ (Do not close, as you will see the logs in this window.)
+- Run (Do not close, as you will see the logs in this window.)
 ```shell
 npm start
 ```
