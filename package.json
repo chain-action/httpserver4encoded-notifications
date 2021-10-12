@@ -1,0 +1,17 @@
+{
+  "name": "httpserver4encoded-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tonclient/core": "^1",
+    "@tonclient/lib-node": "^1"
+  }
+}

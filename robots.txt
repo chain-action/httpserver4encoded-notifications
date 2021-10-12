@@ -1,0 +1,2 @@
+User-agent: FtPro-Notify-Bot
+Allow: /
